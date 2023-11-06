@@ -56,25 +56,20 @@ to the center of the satellite component?"```
 # Git
 
 
-```
-git add README.md
+```git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:adammaj1/mandel.git
-git push -u origin main
-```
+git push -u origin main```
 
 Subdirectory
 ---------------
 
-```
-mkdir images
+```mkdir images
 git add *.png
 git mv  *.png ./png
 git commit -m "move"
-git push -u origin main
-
-```
+git push -u origin main```
 
 then link the images:
 
