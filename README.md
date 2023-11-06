@@ -5,6 +5,18 @@ Here you will find
 
 See also [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel)
 
+#Programs
+
+## wake
+
+code 
+* [w.cpp](./src/wake/w.cpp)
+
+
+
+
+
+
 
 # Git
 
@@ -43,7 +55,7 @@ git mv -f
 local repo : 
 --------------
 
-~/Dokumenty/c/Waveform
+~/mandel
 
 
 License
