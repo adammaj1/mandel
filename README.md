@@ -79,13 +79,15 @@ git push -u origin main
 
 then link the images:
 
-```![](./png/n.png "description of n.png image")
-```
+
+   ![](./png/n.png "description of n.png image")
+
 
 to overwrite
 
-```git mv -f
-```
+
+   git mv -f
+
 
 local repo : 
 --------------
