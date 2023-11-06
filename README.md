@@ -30,13 +30,13 @@ code: [wake.cpp](./src/wake/wake.cpp)
 
 to compile :
 
-```g++ w.cpp -Wall -lm
-```
+ g++ w.cpp -Wall -lm
+
 
 to run
 
-```./a.out
-```
+ ./a.out
+
 
 
 example session: 
