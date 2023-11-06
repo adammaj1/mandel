@@ -10,8 +10,10 @@ See also [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel)
 
 ## wake
 
-code 
-* [wake.cpp](./src/wake/wake.cpp)
+Description
+* [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel#Wake)
+
+code: [wake.cpp](./src/wake/wake.cpp)
 
 
 
@@ -27,8 +29,7 @@ to run
 
 example session: 
 
-```
-Determine the wake of a limb at the main cardioid of Mandelbrot set. 
+```Determine the wake of a limb at the main cardioid of Mandelbrot set. 
 Enter a fraction  k/r  for the rotation number, in lowest terms, with  1 <= k < r < 64 
  Enter numerator of the rotation number, it is integer  1 <= k < 64 :  
 1
@@ -40,6 +41,15 @@ The 1/3 wake of the main cardioid is bounded by the parameter rays with the angl
 The root point of wake is c = -0.125 ; 0.649519052838329:
 The fixed point alfa is z = -0.25 ; 0.433012701892219:
 ```
+
+In the result from the program mandel 5.19 for input 1/3 is different: 
+
+```"The 1/3-wake of the main cardioid is
+bounded by the parameter rays with the angles
+1/7  or  p001  and
+2/7  or  p010 .
+Do you want to draw the rays and to shift c
+to the center of the satellite component?"```
 
 
 
