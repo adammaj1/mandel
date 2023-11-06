@@ -8,9 +8,19 @@ See also [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel)
 
 # Programs
 
+
+## numbersToBinary
+
+console QT program. Converts decimal proper fraction to binary fraction in mandel notation ( formated string)
+
+code: [numbersToBinary.cpp](./src/wake/numbersToBinary.cpp)
+
+
 ## wake
 
-Description
+Description: 
+* console C++ program
+* finds 
 * [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel#Wake)
 
 code: [wake.cpp](./src/wake/wake.cpp)
@@ -20,11 +30,13 @@ code: [wake.cpp](./src/wake/wake.cpp)
 
 to compile :
 
-```g++ w.cpp -Wall -lm```
+```g++ w.cpp -Wall -lm
+```
 
 to run
 
-```./a.out```
+```./a.out
+```
 
 
 example session: 
