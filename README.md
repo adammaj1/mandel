@@ -39,28 +39,28 @@ The rotation number is 1/3
 The 1/3 wake of the main cardioid is bounded by the parameter rays with the angles :
 1/7 and 2/7
 The root point of wake is c = -0.125 ; 0.649519052838329:
-The fixed point alfa is z = -0.25 ; 0.433012701892219:
-```
+The fixed point alfa is z = -0.25 ; 0.433012701892219:```
 
 In the result from the program mandel 5.19 for input 1/3 is different: 
 
-```"The 1/3-wake of the main cardioid is
+```The 1/3-wake of the main cardioid is
 bounded by the parameter rays with the angles
 1/7  or  p001  and
 2/7  or  p010 .
 Do you want to draw the rays and to shift c
-to the center of the satellite component?"```
+to the center of the satellite component?```
 
 
 
 # Git
 
 
-```git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:adammaj1/mandel.git
-git push -u origin main```
+
+   git add README.md
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin git@github.com:adammaj1/mandel.git
+   git push -u origin main
 
 Subdirectory
 ---------------
@@ -73,14 +73,10 @@ git push -u origin main```
 
 then link the images:
 
-```
-![](./png/n.png "description of n.png image") 
-```
+```![](./png/n.png "description of n.png image") ```
 to overwrite
 
-```
-git mv -f 
-```
+```git mv -f ```
 
 local repo : 
 --------------
