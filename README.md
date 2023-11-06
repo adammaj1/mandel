@@ -5,12 +5,12 @@ Here you will find
 
 See also [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel)
 
-#Programs
+# Programs
 
 ## wake
 
 code 
-* [w.cpp](./src/wake/w.cpp)
+* [wake.cpp](./src/wake/wake.cpp)
 
 
 
