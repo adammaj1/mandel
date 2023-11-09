@@ -11,9 +11,23 @@ See also [wikibooks](https://en.wikibooks.org/wiki/Fractals/mandel)
 
 ## numbersToBinary
 
-console QT program. Converts decimal proper fraction to binary fraction in mandel notation ( formated string)
+console QT program. Converts decimal proper fraction to [binary fraction](https://en.wikibooks.org/wiki/Fractals/Mathematics/binary) in mandel notation ( formated string)
 
-code: [numbersToBinary.cpp](./src/wake/numbersToBinary.cpp)
+
+program mandel own notation: apb where a is a preperiodic part and b is a periodic part, so apb in general math notation is 0.a(b)
+
+
+example of use: input 1/7
+
+output :
+
+   binary expansion of external angle has preperiod = 0 and period = 3
+   external angle as a decimal fraction = 1/7
+   as binary floating point number in program mandel own notation = p001
+
+
+
+code: [numbersToBinary.cpp](./src/numbersToBinary/numbersToBinary.cpp)
 
 
 ## wake
